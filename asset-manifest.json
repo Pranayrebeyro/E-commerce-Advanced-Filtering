@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/E-commerce-Advanced-Filtering/static/css/main.58268a81.css",
+    "main.js": "/E-commerce-Advanced-Filtering/static/js/main.011930cc.js",
+    "index.html": "/E-commerce-Advanced-Filtering/index.html",
+    "main.58268a81.css.map": "/E-commerce-Advanced-Filtering/static/css/main.58268a81.css.map",
+    "main.011930cc.js.map": "/E-commerce-Advanced-Filtering/static/js/main.011930cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58268a81.css",
+    "static/js/main.011930cc.js"
+  ]
+}
